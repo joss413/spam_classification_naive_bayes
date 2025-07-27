@@ -61,6 +61,9 @@ pip install -r requirements.txt
 - images/confusion_matrix.png: Saved image of the confusion matrix plot.
   
 ## 👨‍💻 Author
+
 Yoseph Negash
+
 📧 yosephn22@gmail.com
+
 📅 2025
