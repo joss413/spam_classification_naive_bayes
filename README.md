@@ -7,12 +7,17 @@ This project classifies SMS messages as Spam or Ham (Not Spam) using the Multino
 Citation: Almeida, T.A., Hidalgo, J.M.G., & Yamakami, A. (2011). Contributions to the study of SMS spam filtering: new collection and results. Proceedings of the 11th ACM Symposium on Document Engineering (DocEng), pp. 259–262.
 
 Dataset Details:
+
 5,574 SMS messages manually labeled as:
+
 -ham → Not Spam
+
 -spam → Spam
 
 Two columns:
+
 -Category: Target label (ham or spam)
+
 -Message: SMS content
 
 🚀 Project Workflow
