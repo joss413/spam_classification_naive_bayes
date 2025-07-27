@@ -1,8 +1,8 @@
-📩 SMS Spam Classification (Naive Bayes)
+# 📩 SMS Spam Classification (Naive Bayes)
 This project classifies SMS messages as Spam or Ham (Not Spam) using the Multinomial Naive Bayes algorithm. The model is built with scikit-learn and trained on the popular SMS Spam Collection dataset.
 
-📊 Dataset
-- Source: UCI Machine Learning Repository – SMS Spam Collection Dataset
+## 📊 Dataset
+- Source: UCI Machine Learning Repository – SMS Spam Collection Dataset(https://archive.ics.uci.edu/dataset/228/sms+spam+collection)
 
 Citation: Almeida, T.A., Hidalgo, J.M.G., & Yamakami, A. (2011). Contributions to the study of SMS spam filtering: new collection and results. Proceedings of the 11th ACM Symposium on Document Engineering (DocEng), pp. 259–262.
 
@@ -20,7 +20,7 @@ Two columns:
 
 -Message: SMS content
 
-🚀 Project Workflow
+##🚀 Project Workflow
 1.Data Preprocessing
 - Loaded dataset using pandas.
 - Verified class distribution: ~87% ham, ~13% spam.
